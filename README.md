@@ -1,5 +1,5 @@
 <h2>� Descrição �</h2>
-<p> projeto em python de um sistema de pizzaria com funções para clientes e funcionários.</p>.
+<p> projeto em python de um sistema de pizzaria com funções para clientes e funcionários.</p>
 
 ## � Tecnologias � 
 <div>
